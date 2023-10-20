@@ -1,7 +1,7 @@
 # About ME 
 - 👋 Hi, I’m Kubra
 - 👀 I’m interested in web developer.
-- 🌱 I’m currently learning JavaScript, Angular, React.
+- 🌱 I’m currently learning JavaScript, React, C#.
 - 💞️ I’m looking to collaborate on Frotend Web Dev.
 - 📫 How to reach me --> kmrt3014@gmail.com
 
